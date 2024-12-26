@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693240354 source:e:\self study\embedded track\mohamed abd elbasit\0- projects\bootloader\main.c
+	<stdio.h>
+	<stdlib.h>
+
